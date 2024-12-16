@@ -8,8 +8,11 @@ Bu proje, ROS Noetic kullanarak bir drone'un çizgi takip görevini gerçekleşt
 
 ## Kurulum Adımları
 git clone https://github.com/HiK-ibrahim/ros_drone_line_following.git
+
 cd ros_drone_line_following
+
 catkin_make
+
 source devel/setup.bash
 
 

@@ -1,0 +1,8 @@
+prefix=/home/hik/Masaüstü/ros/görev-1/ros_drone_line_following/devel
+
+Name: drone_line_follow
+Description: Description of drone_line_follow
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

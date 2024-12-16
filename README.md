@@ -17,6 +17,7 @@ Projenin Çalıştırılması
 Drone çizgi takip görevini başlatmak için aşağıdaki komutu çalıştırın:
 
 roslaunch hik_drone_pkg drone_line_follow.launch
+![image](https://github.com/user-attachments/assets/b1764358-6133-43c3-99fd-68f73906dca1)
 
 
 
